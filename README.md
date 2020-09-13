@@ -1,16 +1,12 @@
-### Hi there 👋
+一个爱学习，知上进，善沟通，懂感恩的人，电影，音乐，读书我都十分喜爱
+成为一名专业的网络技术人员，能够带领我的团队，开发一些符合时代的，便民，利民的软件
+计算机，并不能熟练掌握
+综合项目，与同学一起设计编写程序
+更多的计算机知识
 
-<!--
-**zhangdi433/zhangdi433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+能力就像肌肉一样需要训练。训练的方式就是在大学的每一个课堂上，要求自己认真听老师讲课。当
+认真成为习惯，你会很享受这种高质量的动作给你带来的好处，比如专注的能力，入定入静的能力，
+这些能力会伴随你一生。
+如果在大学里你持续的散漫形成了习惯，你会发现在后续工作以及学习中，你很难让自己专注。于是
+即使到关键时刻，你的弦也是绷不起来的，因为要你上的时候，你不行。
